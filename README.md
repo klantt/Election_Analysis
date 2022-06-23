@@ -28,7 +28,7 @@ Modeul 3 election analysis
   ![](Election_Results.png)
   
   
- - The candidate that won the election was Diana Degette with 272,892 votes and a total vote percentage of 73.8%.
+ - The candidate that won the election was Diana Degette with 272,892 votes and A total vote percentage of 73.8%.
   
 ## Election-Audit Summary
-  All in all I believe that this script I have provided for the election is very flexible and with slight modification to the code can be used for any election weather it be small and local or state wide similar to what I have done with this. A couple examples I can give include creating something simple like a list. Lists are easily changed and convinient to have. Second I believe that the "county_votes[county_name]" for example you can swap almost anything weather it be a candidates name or a state/county. 
+  All in all I believe that this script I have provided for the election is very flexible and with slight modification to the code can be used for any election weather it be small and local or state wide similar to what I have done with this. A couple examples I can give include creating something simple like A list. Lists are easily changed and convenient to have. Second I believe that the "county_votes[county_name]" for example you can swap almost anything weather it be A candidates name or A state/county. 
