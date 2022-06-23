@@ -23,7 +23,10 @@ Modeul 3 election analysis
       
   -The county that had the largest total nmber of votes was Denver with 366,055 votes.
   -Next task was to breakdown the total amount of votes for each candidate and make it easy to read with indentations, headings, and spaces. 
+  
+  
   ![](Election_Results.png)
+  
   
   - The candidate that won the election was Diana Degette with 272,892 votes and a total vote percentage of 73.8%.
   
